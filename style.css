@@ -2,14 +2,12 @@ html {
   font-family: Open Sans;
 }
 
-
 figure {
   background-color: white;
   max-width: 300px;
 }
 
 figure header {
-
   display: flex;
   background-color: #ee4b60;
   color: #fff;
@@ -18,8 +16,6 @@ figure header {
   padding: 15px;
   font-family: 'Merriweather', serif;
   font-weight: 300;
-  ;
-
 }
 
 figure header h2 {
