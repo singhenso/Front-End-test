@@ -1,0 +1,55 @@
+html {
+  font-family: Open Sans;
+}
+
+
+figure {
+  background-color: white;
+  max-width: 300px;
+}
+
+figure header {
+
+  display: flex;
+  background-color: #ee4b60;
+  color: #fff;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+  font-family: 'Merriweather', serif;
+  font-weight: 300;
+  ;
+
+}
+
+figure header h2 {
+  margin: 0;
+  padding: 0;
+  font-size: 1.5em;
+}
+figure header div {
+display: flex;
+}
+
+figure figcaption {
+  background-color: #fff9f5;
+}
+
+figure figcaption ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+figure figcaption ul li {
+  padding: 15px;
+  border-bottom: 1px solid #E6E2E2;
+}
+figure figcaption ul li span{
+display: flex;
+}
+figure figcaption ul li:hover  {
+  background-color: #ffece3;
+  color: #EE4B60;
+}
